@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.my.testamazon"
+    },
+    "com.hrj.demo.toast": {
+      "PACKAGE_NAME": "com.my.testamazon"
+    },
+    "com.childfolio.amazon": {
+      "PACKAGE_NAME": "com.my.testamazon"
+    }
+  },
+  "dependent_plugins": {}
+}

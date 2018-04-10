@@ -1,0 +1,26 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.hrj.demo.toast": {
+    "source": {
+      "type": "local",
+      "path": "/Users/heruijun/Desktop/testamazon/node_modules/MyToast"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "com.childfolio.amazon": {
+    "source": {
+      "type": "local",
+      "path": "/Users/heruijun/Desktop/testamazon/node_modules/AmazonS3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

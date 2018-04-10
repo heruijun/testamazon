@@ -1,0 +1,4 @@
+#Tue Apr 10 13:03:23 CST 2018
+base.0=/Users/heruijun/Desktop/testamazon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/3
+renamed.0=classes.dex
+file.0=/Users/heruijun/Desktop/testamazon/platforms/android/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex
